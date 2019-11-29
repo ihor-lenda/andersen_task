@@ -5,16 +5,16 @@
     {
         public static void main(String[] args) throws IOException
         {
-          System.out.print("Введите имя:");  
+          System.out.print("Р’РІРµРґРёС‚Рµ РёРјСЏ:");  
           BufferedReader reader =
                        new BufferedReader(new InputStreamReader(System.in));
             String inpt = reader.readLine();
-            if (inpt.equals("Вячеслав"))
+            if (inpt.equals("Р’СЏС‡РµСЃР»Р°РІ"))
             {
-            System.out.print("Привет, Вячеслав");
+            System.out.print("РџСЂРёРІРµС‚, Р’СЏС‡РµСЃР»Р°РІ");
             }
             else {
-            System.out.print("Нет такого имени");
+            System.out.print("РќРµС‚ С‚Р°РєРѕРіРѕ РёРјРµРЅРё");
             }
            }
     }    
