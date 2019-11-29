@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" build="" main="Lenda_testTask2" manifest="" root="" work="">
+    <createjar file="Lenda_TestTask2.jar" flags="7"/>
+    <source>
+      <file active="true" name="Lenda_testTask2.java" package="" timestamp="29-Nov-2019 17:14:25">
+        <select from="647" to="647"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
