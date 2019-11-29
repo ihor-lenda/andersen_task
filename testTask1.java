@@ -5,13 +5,13 @@
     {
         public static void main(String[] args) throws IOException
         {
-          System.out.print("Введите число:");  
+          System.out.print("Р’РІРµРґРёС‚Рµ С‡РёСЃР»Рѕ:");  
           BufferedReader reader =
                        new BufferedReader(new InputStreamReader(System.in));
             String inpt = reader.readLine();
             int number = Integer.parseInt(inpt); 
             if (number > 7){
-            System.out.print("Привет!");
+            System.out.print("РџСЂРёРІРµС‚!");
             }
         }
     }    
